@@ -14,7 +14,7 @@ void viewMenu() {
 }
 
 int returnOption() {
-
+    return 0;
 }
 
 void processOption(int option) {
