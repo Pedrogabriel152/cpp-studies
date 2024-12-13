@@ -6,7 +6,7 @@ void coordinates(int x, int y, int z) {
     x *= 10;
     y *= 10;
     z *= 10;
-    std::cout << "(" << x << " " << y << " " << z << ")" << std::endl;
+    std::cout << "(" << x << ", " << y << ", " << z << ")" << std::endl;
 }
 
 int main() {
